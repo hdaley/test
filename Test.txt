@@ -1,3 +1,5 @@
 This is a test document. Version 1. This is changed (first time, with branch-1 selected) and changed again
 
 Committed to Master, presum
+
+Testing 2020
